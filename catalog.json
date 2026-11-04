@@ -1,0 +1,11 @@
+{
+  "packages": [
+    {
+      "id": "dots-12",
+      "name": "Dots",
+      "version": 1,
+      "group": "twelve",
+      "file": "dots-12.zip"
+    }
+  ]
+}
