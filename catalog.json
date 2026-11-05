@@ -15,6 +15,14 @@
       "group": "twelve",
       "file": "Pumpkins.zip",
       "preview": "previews/Pumpkins-preview.png"
+    },
+    {
+      "id": "Thanksgiving-12",
+      "name": "Thanksgiving",
+      "version": 1,
+      "group": "twelve",
+      "file": "Thanksgiving.zip",
+      "preview": "previews/Pumpkins-preview.png"
     }
   ]
 }
