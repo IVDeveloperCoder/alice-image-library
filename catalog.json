@@ -5,14 +5,16 @@
       "name": "Halloween",
       "version": 1,
       "group": "twelve",
-      "file": "Halloween.zip"
+      "file": "Halloween.zip",
+      "preview": "previews/Halloween-preview.png"
     },
     {
       "id": "pumpkins-12",
       "name": "Pumpkins",
       "version": 1,
       "group": "twelve",
-      "file": "Pumpkins.zip"
+      "file": "Pumpkins.zip",
+      "preview": "previews/Pumpkins-preview.png"
     }
   ]
 }
