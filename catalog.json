@@ -1,14 +1,14 @@
 {
   "packages": [
     {
-      "id": "halloween",
+      "id": "hacubs-12",
       "name": "Halloween",
       "version": 1,
       "group": "twelve",
       "file": "Halloween.zip"
     },
     {
-      "id": "pumpkins",
+      "id": "pumpkins-12",
       "name": "Pumpkins",
       "version": 1,
       "group": "twelve",
