@@ -1,11 +1,18 @@
 {
   "packages": [
     {
-      "id": "dots-12",
-      "name": "Dots",
+      "id": "halloween",
+      "name": "Halloween",
       "version": 1,
       "group": "twelve",
-      "file": "dots-12.zip"
+      "file": "Halloween.zip"
+    },
+    {
+      "id": "pumpkins",
+      "name": "Pumpkins",
+      "version": 1,
+      "group": "twelve",
+      "file": "Pumpkins.zip"
     }
   ]
 }
