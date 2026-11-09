@@ -1,15 +1,15 @@
 {
   "packages": [
     {
-      "id": "hacubs-12",
+      "id": "Halloween-12",
       "name": "Halloween",
-      "version": 2,
+      "version": 1,
       "group": "twelve",
       "file": "Halloween.zip",
       "preview": "previews/Halloween-preview.png"
     },
     {
-      "id": "pumpkins-12",
+      "id": "Pumpkins-12",
       "name": "Pumpkins",
       "version": 1,
       "group": "twelve",
@@ -19,7 +19,7 @@
     {
       "id": "Thanksgiving-12",
       "name": "Thanksgiving",
-      "version": 2,
+      "version": 1,
       "group": "twelve",
       "file": "Thanksgiving.zip",
       "preview": "previews/Thanksgiving-preview.png"
